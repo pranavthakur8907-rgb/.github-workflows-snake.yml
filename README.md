@@ -18,7 +18,7 @@
 
 ---
 
-## `> whoami 🚀`
+## `> who am i🚀`
 
 <br/>
 
@@ -39,9 +39,9 @@
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PRANAV-THAKUR?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/PRANAV-THAKUR)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/PRANAVTHAKUR07?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/PRANAVTHAKUR07)
 
-> 🔁 *Replace `PRANAV-THAKUR` above with your actual LeetCode username*
+> 🔁 *Replace `PRANAVTHAKUR07` above with your actual LeetCode username if different*
 
 <br/>
 
@@ -201,7 +201,7 @@
   </tr>
   <tr>
     <td align="right"><b>LEETCODE</b></td>
-    <td><a href="https://leetcode.com/PRANAV-THAKUR"><img src="https://img.shields.io/badge/PRANAV--THAKUR-FF00FF?style=for-the-badge&logoColor=black"/></a></td>
+    <td><a href="https://leetcode.com/PRANAVTHAKUR07"><img src="https://img.shields.io/badge/PRANAVTHAKUR07-FF00FF?style=for-the-badge&logoColor=black"/></a></td>
   </tr>
   <tr>
     <td align="right"><b>GITHUB</b></td>
@@ -209,7 +209,7 @@
   </tr>
   <tr>
     <td align="right"><b>GMAIL</b></td>
-    <td><a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/YOUR%20EMAIL-FF00FF?style=for-the-badge&logoColor=black"/></a></td>
+    <td><a href="mailto:pranavthakur8907@gmail.com"><img src="https://img.shields.io/badge/pranavthakur8907%40gmail.com-FF00FF?style=for-the-badge&logoColor=black"/></a></td>
   </tr>
 </table>
 
