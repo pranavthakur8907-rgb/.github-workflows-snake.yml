@@ -9,8 +9,6 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  
 ```
 
-### `> initializing profile... done ✅`
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+the+web%2C+one+commit+at+a+time+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%94%A5)
 
 </div>
