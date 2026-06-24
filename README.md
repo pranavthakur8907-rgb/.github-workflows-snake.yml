@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on exciting projects
 - 🌱 I'm currently learning and growing every day
 - 💬 Ask me about anything tech-related
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: pranavthakur8907@gmail.com
 - ⚡ Fun fact: I love solving problems!
 
 ## 🛠️ Tech Stack
