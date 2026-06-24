@@ -1,13 +1,7 @@
 <div align="center">
 
 ```
-██████╗ ██████╗  █████╗ ███╗   ██╗ █████╗ ██╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██║   ██║
-██████╔╝██████╔╝███████║██╔██╗ ██║███████║██║   ██║
-██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██╔══██║╚██╗ ██╔╝
-██║     ██║  ██║██║  ██║██║ ╚████║██║  ██║ ╚████╔╝ 
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  
-```
+Pranav Thakur 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+the+web%2C+one+commit+at+a+time+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%94%A5)
 
@@ -105,9 +99,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PRANAV%20THAKUR-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A&color=00FFFF)](https://linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PRANAV%20THAKUR-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A&color=00FFFF)](https://linkedin.com/in/Pranav Thakur)
 [![GitHub](https://img.shields.io/badge/GitHub-PRANAV--THAKUR-0A0A0A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=FF00FF)](https://github.com/PRANAV-THAKUR)
-[![Gmail](https://img.shields.io/badge/Gmail-YOUR--EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A&color=00FFFF)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-YOUR--EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A&color=00FFFF)](pranavthakur8907@gmail.com)
 
 </div>
 
