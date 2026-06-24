@@ -9,7 +9,7 @@ Pranav Thakur
 
 ---
 
-## `> who am i 🚀`
+## `> who am i🚀`
 
 - 🎓 **B.Tech CSE Student** — focused on Full Stack Development
 - ⚡ **Currently:** Building web apps & sharpening DSA skills
